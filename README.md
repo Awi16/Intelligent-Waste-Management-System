@@ -12,6 +12,7 @@ With urbanization on the rise and waste management becoming an escalating concer
  (d) Mini breadboard
  (e) Jumper Wires
  (f) Micro USB Cable
+ 
  2. Software:
  (a) ThingSpeak
  (b) Firebase
