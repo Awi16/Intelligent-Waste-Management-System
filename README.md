@@ -5,7 +5,7 @@ Cloud Computing & IoT Project
 With urbanization on the rise and waste management becoming an escalating concern, our project introduces an innovative solution– the Intelligent Waste Management System (IWMS). Leveraging cutting-edge technologies like IoT devices and Thingspeak, the IWMS aims to revolutionize garbage collection using datavisualization & data analysis. The goal is to minimize environmental impact, reduce costs, and optimize resource recovery.
 
 ## Tools
- 1.Hardware:
+  1. Hardware:
  (a) HC-SR04 Ultrasonic Sensor
  (b) MQ-135 Gas Sensor
  (c) ESP32
